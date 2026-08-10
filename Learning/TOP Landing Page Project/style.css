@@ -133,13 +133,13 @@ ul {
   padding-left: 35%;
 }
 
-.footer {
+.call-action {
   display: flex;
   justify-content: center;
   padding: 5% 0;
 }
 
-.footer-container {
+.call-action-container {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -151,11 +151,19 @@ ul {
   width: 60%;
 }
 
-.footer-container p,
+.call-action-container p,
 h2 {
   margin: 0;
 }
 
-.footer-container button {
+.call-action-container button {
   border: 1px solid #f9faf8;
+}
+
+.footer {
+  background-color: #1f2937;
+  color: #f9faf8;
+  display: flex;
+  justify-content: center;
+  font-size: 18px;
 }
