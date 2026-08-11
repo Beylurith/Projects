@@ -44,6 +44,7 @@ ul {
 
 .hero-text {
   max-width: 50%;
+  align-self: center;
 }
 
 .hero-header h1 {
